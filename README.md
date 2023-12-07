@@ -1,4 +1,4 @@
-# Drum-Kid-Challenge
+# Drum-Kit-Challenge
 Drum Kit Challenge: Build Your Own Virtual Drum Set
 
 🥁 Welcome to the Drum Kit Starting Challenge! 🥁
